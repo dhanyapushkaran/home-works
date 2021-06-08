@@ -1,0 +1,18 @@
+.first{
+    width: 100%;
+   }
+
+.t{
+    width: 30%; height: 100px;
+    border: 1px solid black;
+    float: left;
+}
+.second{
+    width: 100%;
+  }
+
+.r{
+    width: 30%; height: 100px;
+    border: 1px solid black;
+    float: left;
+}

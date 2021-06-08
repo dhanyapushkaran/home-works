@@ -1,0 +1,26 @@
+.parent{
+    width: 500px;height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    position: relative;
+
+   }
+.block1,.block2,.block3{
+    width: 100px;height: 100px;
+    background-color: coral;
+    border: 1px solid black;
+    text-align: center;
+       
+}
+.block1{
+    position: absolute;
+   top: 20px;
+   left: 50px;
+}
+.block2{
+    position: absolute;
+   top: 20px;
+   left: 150px;
+}
